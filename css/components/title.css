@@ -1,0 +1,33 @@
+h1{
+	font-family: 'Palette Mosaic', cursive;
+	font-size: 100px;
+	color: #555B6E;
+	margin: 5px;
+}
+
+h2{
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	color: #89B0AE;
+}
+
+h3{
+	font-family: 'Palette Mosaic', cursive;
+	font-size: 30px;
+	color: #555B6E;
+	margin: 0;
+}
+
+h4{
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color: #89B0AE;
+	margin: 0;
+}
+
+h5{
+	font-family: 'Palette Mosaic', cursive;
+	font-size: 40px;
+	color: #555B6E;
+	margin-left: 30px;
+}

@@ -1,0 +1,28 @@
+.button-rubrique{
+	font-family: 'Oswald', sans-serif;
+	font-size: 35px;
+	color: #89B0AE;
+	margin: 20px;
+	padding: 0 auto;
+	text-decoration: none;
+}
+
+.button-article{
+	padding: 0 auto;
+	text-decoration: none;
+	display: block;
+}
+
+.card-product:hover{
+	padding: 0 auto;
+	text-decoration: none;
+	display: block;
+	background-color: #FFD6BA;
+	box-shadow: 5px 5px 10px #555B6E;
+}
+
+.button-rubrique:hover{
+	color:  #555B6E;
+}
+
+.

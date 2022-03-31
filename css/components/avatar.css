@@ -1,0 +1,18 @@
+.avatar{
+	display: flex;
+	justify-content: flex-end;
+	font-size: 40px;
+	margin: 0 auto;
+	padding: 10px;
+	color: #89B0AE;
+	text-decoration: none; 
+}
+
+.fa-brands {
+	color: #89B0AE;
+	padding: 10px;
+}
+
+.fa-brands:hover{
+	color: #555B6E;
+}
